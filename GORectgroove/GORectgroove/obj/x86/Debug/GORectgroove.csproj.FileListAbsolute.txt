@@ -1,0 +1,15 @@
+F:\czl\paper\几何光学沟槽\GORectgroove\GORectgroove\bin\Debug\GORectgroove.exe
+F:\czl\paper\几何光学沟槽\GORectgroove\GORectgroove\bin\Debug\GORectgroove.pdb
+F:\czl\paper\几何光学沟槽\GORectgroove\GORectgroove\obj\x86\Debug\GORectgroove.Form1.resources
+F:\czl\paper\几何光学沟槽\GORectgroove\GORectgroove\obj\x86\Debug\GORectgroove.Properties.Resources.resources
+F:\czl\paper\几何光学沟槽\GORectgroove\GORectgroove\obj\x86\Debug\GORectgroove.csproj.GenerateResource.Cache
+F:\czl\paper\几何光学沟槽\GORectgroove\GORectgroove\obj\x86\Debug\GORectgroove.exe
+F:\czl\paper\几何光学沟槽\GORectgroove\GORectgroove\obj\x86\Debug\GORectgroove.pdb
+C:\Users\Administrator\Desktop\GORectgroove\GORectgroove\obj\x86\Debug\GORectgroove.exe
+C:\Users\Administrator\Desktop\GORectgroove\GORectgroove\obj\x86\Debug\GORectgroove.pdb
+C:\Users\Administrator\Desktop\GORectgroove\GORectgroove\bin\Debug\GORectgroove.exe
+C:\Users\Administrator\Desktop\GORectgroove\GORectgroove\bin\Debug\GORectgroove.pdb
+C:\Users\Administrator\Desktop\GORectgroove\GORectgroove\obj\x86\Debug\GORectgroove.Form1.resources
+C:\Users\Administrator\Desktop\GORectgroove\GORectgroove\obj\x86\Debug\GORectgroove.Properties.Resources.resources
+C:\Users\Administrator\Desktop\GORectgroove\GORectgroove\obj\x86\Debug\GORectgroove.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\GORectgroove\GORectgroove\obj\x86\Debug\GORectgroove.csprojResolveAssemblyReference.cache
