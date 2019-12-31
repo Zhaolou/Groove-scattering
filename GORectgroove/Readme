@@ -1,2 +1,3 @@
 Geometrical optics approximation for plane wave scattering by a rectangular groove.
 The substrate could be made of either glass or metal with complex refractive index.
+The code is written in Visual Studio 2010 by C#.
