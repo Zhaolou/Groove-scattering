@@ -1,0 +1,3 @@
+These Matlab files are aimed at providing rigorous solution for light sheet scattering by a rectangular groove on a metallic surface based on hybrid modal theory and plane wave spectrum theory.
+
+Run main.m and the far-field scattered light intensity for grooves at different positions is stored in the "ni" variable.
